@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app";
 import {getAuth} from "firebase/auth"; 
 
 const firebaseConfig = {
-    apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-    authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
-    projectId: import.meta.env.VITE_FIREBASE_PROJECTID,
-    storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
-    messagingSenderId:import.meta.env.VITE_FIREBASE_MESAGING_SENDER_ID,
-    appId: import.meta.env.APP_ID
-  };
+  apiKey: "AIzaSyDHxYSzp87uPZfqQO4R3z5vKP7qIxABwlE",
+  authDomain: "bluebird-6bddd.firebaseapp.com",
+  projectId: "bluebird-6bddd",
+  storageBucket: "bluebird-6bddd.appspot.com",
+  messagingSenderId: "996964255707",
+  appId: "1:996964255707:web:70c970ec0127252b9fc9fe"
+};
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
