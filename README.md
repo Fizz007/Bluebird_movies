@@ -78,8 +78,4 @@ Note: Ensure that you have carefully added the TMDB API key and Firebase authent
 
 <hr/>
 
-# 🍿 Demo 
 
-- Check out our live demo at https://bluebirdmovies.netlify.app/ 
- 
-- Youtube video : https://www.youtube.com/watch?v=mGqOOtEGmJc.
